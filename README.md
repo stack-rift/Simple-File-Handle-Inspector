@@ -62,6 +62,18 @@ You can safely move the utility's folder. Just re-run the **`configure.bat`** af
 
 ---
 
+## ⚠️ Download Warning
+Some browsers (like Microsoft Edge or Google Chrome) may block the download of this utility's archive.
+This is a **false positive** — a precaution triggered by the presence of batch files.
+
+The utility is fully open-source, contains no networking code, and does not collect any data.
+
+How to proceed:
+- Download the files manually from this repository
+- Or clone the repository using `git clone`
+
+---
+
 ## 🙋 Contact
 
 Feel free to reach out with suggestions, questions, or improvements:
